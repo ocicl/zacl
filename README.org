@@ -4,7 +4,7 @@ ACL-like layer for AllegroServe porting.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/dcooper/zacl.git |
-| commit  | 92a946f                                             |
+| commit  | d23576d                                             |
 | systems | zacl zacl-aserve                                    |
 |---------+-----------------------------------------------------|
   
